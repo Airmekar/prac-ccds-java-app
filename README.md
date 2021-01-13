@@ -1,2 +1,3 @@
-# prac-ccds-java-app
-This is for practice only
+# maven-project
+
+Simple Maven Project
